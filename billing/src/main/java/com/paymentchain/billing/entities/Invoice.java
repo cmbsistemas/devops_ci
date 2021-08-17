@@ -11,6 +11,10 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import lombok.Data;
 
+/**
+Comentario añadido para devops
+ */
+
 
 
 /**
